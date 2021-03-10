@@ -382,7 +382,7 @@ section .title::after{
 
 
 .skills-content .right .python::before{
-    width: 85%;
+    width: 90%;
 }
 .skills-content .right .java::before{
     width: 80%;
