@@ -265,6 +265,7 @@ section .title::after{
     background: url("images/banner4.jpg") no-repeat center;
     
     background-attachment: fixed;
+    color:#fff;
    
 
 }
